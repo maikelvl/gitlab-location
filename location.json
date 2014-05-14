@@ -1,5 +1,5 @@
 {
-  "https": "true",
+  "https": "false",
   "domain": "gitlab.userx.nl",
   "api_uri": "api/v3"
 }

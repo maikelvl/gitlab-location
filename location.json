@@ -1,5 +1,6 @@
 {
-  "https": "false",
-  "domain": "gitlab.userx.nl",
-  "api_uri": "api/v3"
+	"https": "false",
+	"domain": "gitlab.userx.nl",
+ 	"api_uri": "api/v3",
+	"settings_api_uri": "setup/gitlab-settings/settings.json"
 }
